@@ -85,5 +85,7 @@ terraform apply
 <img width="1175" height="545" alt="terraform_haweb_github_repo" src="https://github.com/user-attachments/assets/ab180432-165d-468a-aefa-83b991dfc9e2" />
 
 ### Terraform Apply Output
+<img width="1818" height="340" alt="terraform_haweb_terraform_apply" src="https://github.com/user-attachments/assets/7e521c61-7bb8-4970-b229-2296e81ecf56" />
+
 <!-- Add your terraform apply output screenshot here, e.g.: -->
 <!-- <img width="1200" height="600" alt="terraform_apply_output" src="PASTE_URL_HERE" /> -->
