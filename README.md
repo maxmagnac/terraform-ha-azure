@@ -44,6 +44,8 @@ This project automates the deployment of a high availability web infrastructure 
 
 ## Deployment Instructions
 
+## Deployment Instructions
+
 Clone the repository:
 
 ```bash
