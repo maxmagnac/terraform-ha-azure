@@ -77,10 +77,10 @@ Load Balancer
 Load Balancer (screenshots/ha-load-balancer.png)
 
 Virtual Machines
-Virtual Machines (screenshots/terraform_haweb_vm1&vm2.png)
+Virtual Machines (screenshots/terraform_haweb_vm1andvm2.png)
 
 Network Security Groups
-Network Security Groups (screenshots/terraform_haweb_web_nsg&db_nsg.png)
+Network Security Groups (screenshots/terraform_haweb_web_nsganddb_nsg.png)
 
 GitHub Repository
 GitHub Repo (screenshots/terraform_haweb_github_repo.png)
