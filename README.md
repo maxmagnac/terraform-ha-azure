@@ -1,6 +1,6 @@
-## Deployment Instructions
+# Terraform High Availability Web Infrastructure on Azure
 
-Clone the repository:
+## Deployment Instructions
 
 ```bash
 git clone [https://github.com/maxmagnac/terraform-ha-azure.git](https://github.com/maxmagnac/terraform-ha-azure.git)
