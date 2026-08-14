@@ -1,3 +1,4 @@
+<img width="1606" height="432" alt="terraform_haweb_vnet" src="https://github.com/user-attachments/assets/d02782f9-42ca-4b62-83c9-d84afad9cd3f" />
 # Terraform High Availability Web Infrastructure on Azure
 
 Author: Maurrin Carter  
