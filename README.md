@@ -47,7 +47,8 @@ This project automates the deployment of a high availability web infrastructure 
 Clone the repository:
 
 ```bash
-git clone https://github.com/maxmagnac/terraform-ha-azure.git
+git clone [https://github.com/maxmagnac/terraform-ha-azure.git](https://github.com/maxmagnac/terraform-ha-azure.git)
+
 Screenshots
 Resource Group
 <img width="1422" height="567" alt="terraform_haweb_resource_group" src="https://github.com/user-attachments/assets/533a6335-4bc0-4d9d-a203-bf3df6940d00" />
