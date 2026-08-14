@@ -157,7 +157,7 @@ resource "azurerm_linux_virtual_machine" "web_vm1" {
  name = "web-vm1"
  location = azurerm_resource_group.ha_rg.location
  resource_group_name = azurerm_resource_group.ha_rg.name
- size = "Standard_B1s"
+ size = "Standard_D2s_v3"
  admin_username = "azureuser"
  network_interface_ids = [azurerm_network_interface.vm1_nic.id]
 
@@ -184,7 +184,7 @@ resource "azurerm_linux_virtual_machine" "web_vm2" {
  name = "web-vm2"
  location = azurerm_resource_group.ha_rg.location
  resource_group_name = azurerm_resource_group.ha_rg.name
- size = "Standard_B1s"
+ size = "Standard_D2s_v3"
  admin_username = "azureuser"
  network_interface_ids = [azurerm_network_interface.vm2_nic.id]
 
