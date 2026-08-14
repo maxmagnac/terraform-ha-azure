@@ -48,18 +48,5 @@ Clone the repository:
 ```bash
 git clone [https://github.com/maxmagnac/terraform-ha-azure.git](https://github.com/maxmagnac/terraform-ha-azure.git)
 
-## Screenshots
-
-### Resource Group
-
-### Virtual Network
-
-### Load Balancer
-
-### Virtual Machines
-
-### Network Security Groups
-
-### GitHub Repository
 
 ### Terraform Apply Output
